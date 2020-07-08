@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Click [https://breaking-bad-ayush.netlify.app/](here) to view in browser
+Click [here](https://breaking-bad-ayush.netlify.app/) to view in browser
 
 ## Available Scripts
 
